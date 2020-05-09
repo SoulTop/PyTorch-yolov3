@@ -29,7 +29,7 @@
 - python 3
 - pytorch >= 1.0
 - torchvision
-- imaug
+- imgaug
 - opencv-python
 - matplotlib, tqdm, collections
 
